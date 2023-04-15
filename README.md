@@ -10,8 +10,8 @@ When I finished them I went through and removed all of my input to create these 
 
 Here is what they look like:<br>
 
+![example](https://user-images.githubusercontent.com/121943803/232176093-0ac7e7e5-98ee-4abf-979b-d13d84c0ef5a.jpg)
 
-![Example](attachment:image.png)
 * They all follow this format but the line numbers are all different.
 * At the top of each notebook is the name of the group and a link to the group on CodingBat.
 * Line 1 is the name of the problem.
