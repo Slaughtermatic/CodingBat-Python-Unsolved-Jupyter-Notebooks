@@ -1,0 +1,26 @@
+# CodingBat-Python-Unsolved-Jupyter-Notebooks
+A collection of JupyterNotebooks containing the unsolved practice problems at Codingbat.com/Python for easier working.
+<br>
+<br>
+I recently finished up all of the exercises on the [Python side of CodingBat](https://codingbat.com/python). 
+<br>
+I imported them into Jupyter Notebooks as I went cause they were just kind of easier to work with than the website. 
+<br>
+When I finished them I went through and removed all of my input to create these blank templates for you. :)
+
+Here is what they look like:<br>
+
+
+![Example](attachment:image.png)
+* They all follow this format but the line numbers are all different.
+* At the top of each notebook is the name of the group and a link to the group on CodingBat.
+* Line 1 is the name of the problem.
+* Line 3 is the problem.
+* Line 9 is the function.
+* Line 12 on are the sample problems.
+  * I added print() to all of the samples so you can see the output more easily. 
+
+
+<br>
+The theme that I'm using in VS Code is called Dracula.
+
